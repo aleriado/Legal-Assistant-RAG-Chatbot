@@ -1,0 +1,997 @@
+2025-08-19 23:10:36,855 - HTTP Request: POST https://adeel-meijf262-eastus2.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-02-01 "HTTP/1.1 400 model_error"
+2025-08-20 15:28:00,311 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 15:28:00,958 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '52'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '702cf8c1-7d86-11f0-a144-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 15:43:16,341 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 15:43:16,463 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '53'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '91dc2277-7d88-11f0-a8f5-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 17:16:24,888 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 17:16:26,373 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '53'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '95b4c789-7d95-11f0-b880-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 18:24:01,922 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 18:24:02,563 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '52'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '0761e76c-7d9f-11f0-a05e-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:04:04,238 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:04:04,389 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '53'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '00c03410-7dad-11f0-a826-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:09:00,848 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:10:39,892 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:10:40,037 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ec934afc-7dad-11f0-8bd0-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:10:41,643 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'ec934afc-7dad-11f0-8bd0-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:10:40 GMT'
+2025-08-20 20:10:41,701 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ed9120ec-7dad-11f0-8f1b-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:10:41,969 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'ed9120ec-7dad-11f0-8f1b-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:10:40 GMT'
+2025-08-20 20:10:44,242 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-08-20 20:10:44,243 - Retrying request to /chat/completions in 60.000000 seconds
+2025-08-20 20:11:46,461 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-08-20 20:11:46,462 - Retrying request to /chat/completions in 60.000000 seconds
+2025-08-20 20:12:48,729 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-12-01-preview "HTTP/1.1 429 Too Many Requests"
+2025-08-20 20:18:05,077 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:18:05,218 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34624'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'f5ec83dc-7dae-11f0-be85-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:18:06,592 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'f5ec83dc-7dae-11f0-be85-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:18:04 GMT'
+2025-08-20 20:18:06,662 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21172'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'f6c8d136-7dae-11f0-a6e6-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:18:06,921 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'f6c8d136-7dae-11f0-a6e6-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:18:05 GMT'
+2025-08-20 20:18:09,496 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-02-01 "HTTP/1.1 429 Too Many Requests"
+2025-08-20 20:18:09,497 - Retrying request to /chat/completions in 60.000000 seconds
+2025-08-20 20:19:12,154 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-02-01 "HTTP/1.1 429 Too Many Requests"
+2025-08-20 20:19:12,155 - Retrying request to /chat/completions in 60.000000 seconds
+2025-08-20 20:20:14,664 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo/chat/completions?api-version=2024-02-01 "HTTP/1.1 429 Too Many Requests"
+2025-08-20 20:33:07,048 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:33:07,181 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34478'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '0f8933d0-7db1-11f0-8d42-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:33:08,824 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '0f8933d0-7db1-11f0-8d42-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:33:07 GMT'
+2025-08-20 20:33:08,906 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21062'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '109048d8-7db1-11f0-805b-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:33:09,174 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '109048d8-7db1-11f0-805b-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:33:07 GMT'
+2025-08-20 20:33:11,948 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 400 model_error"
+2025-08-20 20:36:03,542 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:36:03,710 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34478'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '78c15e18-7db1-11f0-b19a-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:36:05,332 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '78c15e18-7db1-11f0-b19a-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:36:03 GMT'
+2025-08-20 20:36:05,387 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21062'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '79c13915-7db1-11f0-8b69-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:36:05,653 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '79c13915-7db1-11f0-8b69-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:36:04 GMT'
+2025-08-20 20:36:08,394 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:36:08,417 - Query: what is civil law | Latency: 6.14s | Context: Title: law_handbook_15e_1.pdf
+Chunk: Anyone who receives such a notice and is not sure 
+what to do s... | Response: Civil law is a type of law that is enforced when individuals, companies, or government bodies claim they have been harmed, misled, or treated unfairly. It involves legal action between different parties, such as individuals, companies, or government bodies, seeking compensation or addressing actions that are alleged to be unfair, harmful, or contrary to an agreement. In civil law cases, the person bringing the case is called the plaintiff, applicant, or complainant, while the person against whom the case is taken is referred to as the defendant or respondent.
+2025-08-20 20:41:00,873 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:41:00,889 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34490'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '29e336a6-7db2-11f0-a93a-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:41:02,393 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '29e336a6-7db2-11f0-a93a-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:41:01 GMT'
+2025-08-20 20:41:02,446 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21048'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '2ad09bf5-7db2-11f0-b42e-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:41:02,695 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '2ad09bf5-7db2-11f0-b42e-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:41:01 GMT'
+2025-08-20 20:41:05,300 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:41:05,304 - Query: what is royal commission | Latency: 5.37s | Context: Title: law_handbook_15e_1.pdf
+Chunk: and groups can approach the Law 
+Reform Commission and suggest ... | Response: A Royal Commission is a commission of inquiry that has strong powers to investigate matters and to call and question witnesses. It is established by the government and usually led by a senior barrister or judge. Royal Commissions have wide-ranging powers, including the ability to summon individuals to give evidence, produce documents, and to recommend reforms or take legal actions based on their findings.
+2025-08-20 20:52:08,601 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:52:09,256 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34478'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'b8430cd7-7db3-11f0-9456-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:52:12,101 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'b8430cd7-7db3-11f0-9456-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:52:10 GMT'
+2025-08-20 20:52:12,345 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21062'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ba1b4a13-7db3-11f0-b61d-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:52:12,895 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'ba1b4a13-7db3-11f0-b61d-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:52:11 GMT'
+2025-08-20 20:52:15,558 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:52:15,664 - Query: what is civil law | Latency: 9.46s | Context: Title: law_handbook_15e_1.pdf
+Chunk: Anyone who receives such a notice and is not sure 
+what to do s... | Response: Civil law is a form of law enforced by individuals and companies who claim they have been harmed, misled, or treated unfairly. In civil law cases, the injured or wronged person can sue the party responsible in order to seek compensation. This type of law usually involves legal action between individuals, companies, or government bodies based on alleged unfair, harmful, or contrary actions.
+2025-08-20 20:54:02,980 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:54:03,065 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34490'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'fc195fb2-7db3-11f0-96e6-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:54:03,803 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'fc195fb2-7db3-11f0-96e6-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:54:02 GMT'
+2025-08-20 20:54:04,049 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21048'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'fcafec2e-7db3-11f0-972e-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 20:54:04,316 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'fcafec2e-7db3-11f0-972e-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 10:54:02 GMT'
+2025-08-20 20:54:07,344 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 20:54:07,353 - Query: what is royal commission | Latency: 5.53s | Context: Title: law_handbook_15e_1.pdf
+Chunk: and groups can approach the Law 
+Reform Commission and suggest ... | Response: A Royal Commission is a commission of inquiry with strong powers to investigate matters and question witnesses. It is typically appointed by the government, headed by one or more commissioners (usually senior barristers or judges), and supported by staff that includes lawyers, investigators, and administrative personnel. Royal Commissions have wide-ranging powers granted by state and federal laws, such as the power to summon individuals to give evidence and produce documents. Failure to comply with a Royal Commission's requests can lead to arrest, and it is an offense to provide false or misleading evidence. Royal Commissions produce reports with conclusions and recommendations, which may suggest reforms to laws or practices and recommend legal actions against individuals. Additionally, a Royal Commission can refer evidence to law enforcement agencies.
+2025-08-20 22:34:46,096 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 22:34:46,244 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34559'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '0e1ca2af-7dc2-11f0-8336-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 22:34:48,248 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '0e1ca2af-7dc2-11f0-8336-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 12:34:47 GMT'
+2025-08-20 22:34:48,471 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21086'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '0f719ac9-7dc2-11f0-bc95-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 22:34:49,166 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '0f719ac9-7dc2-11f0-bc95-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 12:34:47 GMT'
+2025-08-20 22:34:51,228 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 22:34:51,248 - Query: what is you name | Latency: 6.78s | Context: Title: law_handbook_15e_1.pdf
+Chunk: 18 cannot change their name 
+without consent. 
+
+Who must consen... | Response: I cannot find the answer in the provided documents.
+2025-08-20 22:44:57,936 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 22:44:58,014 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34478'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '7ac27e7a-7dc3-11f0-ab19-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 22:45:00,186 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '7ac27e7a-7dc3-11f0-ab19-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 12:44:59 GMT'
+2025-08-20 22:45:00,414 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21062'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '7c30ac6d-7dc3-11f0-b7e2-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-20 22:45:01,005 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '7c30ac6d-7dc3-11f0-b7e2-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Wed, 20 Aug 2025 12:45:00 GMT'
+2025-08-20 22:45:03,771 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-20 22:45:03,773 - Query: what is civil law | Latency: 7.12s | Context: Title: law_handbook_15e_1.pdf
+Chunk: Anyone who receives such a notice and is not sure 
+what to do s... | Response: Civil law is a form of law that is enforced by individuals, companies, or government bodies who claim they have been harmed, misled, or treated unfairly. It involves legal actions brought by a person or entity (plaintiff, applicant, or complainant) against another person or entity (defendant or respondent) seeking compensation or some form of remedy for harm or unfair treatment. It includes cases where one person's negligence causes harm to another, and the injured party sues to obtain compensation.
+2025-08-21 22:46:42,238 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:46:42,881 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'e3adb22f-7e8c-11f0-983f-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:46:44,517 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'e3adb22f-7e8c-11f0-983f-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:46:42 GMT'
+2025-08-21 22:46:44,584 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'e4b17e2c-7e8c-11f0-9c01-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:46:44,847 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'e4b17e2c-7e8c-11f0-9c01-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:46:43 GMT'
+2025-08-21 22:46:46,610 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:46:46,655 - Query: what is the title of the book | Latency: 5.90s | Context: Title: law_handbook_15e_1.pdf
+Chunk: The Law Handbook
+
+YOUR PRACTICAL GUIDE TO THE LAW IN NEW SOUTH ... | Response: The title of the book is "The Law Handbook."
+2025-08-21 22:53:14,963 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:53:15,099 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'cd75676d-7e8d-11f0-9f49-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:53:16,681 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'cd75676d-7e8d-11f0-9f49-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:53:15 GMT'
+2025-08-21 22:53:16,744 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ce706a74-7e8d-11f0-a7b1-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:53:16,992 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'ce706a74-7e8d-11f0-a7b1-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:53:15 GMT'
+2025-08-21 22:53:18,677 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:53:18,704 - Query: what is the title of the book | Latency: 4.96s | Context: Title: law_handbook_15e_1.pdf
+Chunk: The Law Handbook
+
+YOUR PRACTICAL GUIDE TO THE LAW IN NEW SOUTH ... | Response: The title of the book is "The Law Handbook."
+2025-08-21 22:55:20,820 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:55:20,956 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '187981ac-7e8e-11f0-b6aa-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:55:22,526 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '187981ac-7e8e-11f0-b6aa-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:55:21 GMT'
+2025-08-21 22:55:22,583 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '1971aad3-7e8e-11f0-9f64-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:55:22,844 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '1971aad3-7e8e-11f0-9f64-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:55:21 GMT'
+2025-08-21 22:55:24,454 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:55:24,478 - Query: what is the title of the book | Latency: 4.90s | Context: Title: law_handbook_15e_1.pdf
+Chunk: The Law Handbook
+
+YOUR PRACTICAL GUIDE TO THE LAW IN NEW SOUTH ... | Response: The title of the book is "The Law Handbook".
+2025-08-21 22:56:43,779 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:56:43,917 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '49ec77d5-7e8e-11f0-8e2b-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:56:45,560 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '49ec77d5-7e8e-11f0-8e2b-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:56:44 GMT'
+2025-08-21 22:56:45,630 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '4af1d62f-7e8e-11f0-87f8-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 22:56:45,892 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '4af1d62f-7e8e-11f0-87f8-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 12:56:44 GMT'
+2025-08-21 22:56:47,427 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 22:56:47,451 - Query: what is the title of the book | Latency: 4.91s | Context: Title: law_handbook_15e_1.pdf
+Chunk: The Law Handbook
+
+YOUR PRACTICAL GUIDE TO THE LAW IN NEW SOUTH ... | Response: The title of the book is "The Law Handbook."
+2025-08-21 23:35:39,139 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 23:35:39,513 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ba0bf700-7e93-11f0-b723-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 23:35:41,812 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'ba0bf700-7e93-11f0-b723-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 13:35:40 GMT'
+2025-08-21 23:35:41,907 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'bb796042-7e93-11f0-a3ba-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 23:35:42,516 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'bb796042-7e93-11f0-a3ba-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 13:35:41 GMT'
+2025-08-21 23:35:44,358 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 23:35:44,398 - Query: what is the title of the book | Latency: 7.20s | Context: Title: law_handbook_15e_1.pdf
+Chunk: The Law Handbook
+
+YOUR PRACTICAL GUIDE TO THE LAW IN NEW SOUTH ... | Response: The title of the book is "The Law Handbook."
+2025-08-21 23:37:15,388 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 23:37:15,429 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34478'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'f337a806-7e93-11f0-82ae-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 23:37:16,108 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'f337a806-7e93-11f0-82ae-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 13:37:15 GMT'
+2025-08-21 23:37:16,291 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21062'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'f3bb5b7d-7e93-11f0-ae01-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 23:37:16,631 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'f3bb5b7d-7e93-11f0-ae01-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 13:37:15 GMT'
+2025-08-21 23:37:19,892 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 23:37:19,894 - Query: what is civil law | Latency: 5.81s | Context: Title: law_handbook_15e_1.pdf
+Chunk: Anyone who receives such a notice and is not sure 
+what to do s... | Response: Civil law is a type of law that is enforced by individuals, companies, or government bodies who claim they have been harmed, misled, or treated unfairly. Civil cases usually involve legal action between individuals, companies, or government bodies, often for alleged unfair, harmful, or contrary behavior. In civil law, the injured or wronged person (referred to as the plaintiff, applicant, or complainant) is allowed to sue to obtain compensation if they have been harmed due to someone else's negligence. The standard of proof in civil law is "on the balance of probabilities," meaning that something must be proved to be more likely than not to have happened.
+2025-08-21 23:37:48,622 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 23:37:48,646 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34544'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '070444f3-7e94-11f0-a52b-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 23:37:48,937 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '070444f3-7e94-11f0-a52b-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 13:37:48 GMT'
+2025-08-21 23:37:49,032 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21142'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '073f28a1-7e94-11f0-b202-010101010000'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-21 23:37:49,291 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '073f28a1-7e94-11f0-b202-010101010000'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Thu, 21 Aug 2025 13:37:48 GMT'
+2025-08-21 23:37:51,119 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-21 23:37:51,120 - Query: what is your name | Latency: 3.51s | Context: Title: law_handbook_15e_1.pdf
+Chunk: read to her/him in my presence and that s/he 
+seemed to underst... | Response: I cannot find the answer in the provided documents.
+2025-08-25 14:18:34,049 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-25 14:18:35,932 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34608'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '91b13fa9-816a-11f0-b677-04d3b0c273b6'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-25 14:18:37,639 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '91b13fa9-816a-11f0-b677-04d3b0c273b6'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 25 Aug 2025 04:18:37 GMT'
+2025-08-25 14:18:37,851 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21196'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': '92d6312e-816a-11f0-9036-04d3b0c273b6'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-25 14:18:38,121 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': '92d6312e-816a-11f0-9036-04d3b0c273b6'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 25 Aug 2025 04:18:37 GMT'
+2025-08-25 14:18:39,844 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-25 14:18:39,895 - Query: what is the title of the book | Latency: 8.25s | Context: Title: law_handbook_15e_1.pdf
+Chunk: The Law Handbook
+
+YOUR PRACTICAL GUIDE TO THE LAW IN NEW SOUTH ... | Response: The title of the book is "The Law Handbook."
+2025-08-25 14:19:21,601 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-25 14:19:21,701 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34478'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'acf9376b-816a-11f0-967b-04d3b0c273b6'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-25 14:19:22,011 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'acf9376b-816a-11f0-967b-04d3b0c273b6'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 25 Aug 2025 04:19:21 GMT'
+2025-08-25 14:19:22,112 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21062'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'ad37ebef-816a-11f0-a0ff-04d3b0c273b6'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-25 14:19:22,389 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'ad37ebef-816a-11f0-a0ff-04d3b0c273b6'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 25 Aug 2025 04:19:21 GMT'
+2025-08-25 14:19:24,714 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-25 14:19:24,716 - Query: what is civil law | Latency: 4.09s | Context: Title: law_handbook_15e_1.pdf
+Chunk: Anyone who receives such a notice and is not sure 
+what to do s... | Response: Civil law is enforced by people and companies who claim they have been harmed, misled, or treated unfairly. It involves individuals, companies, or government bodies taking legal action against other individuals, companies, or government bodies, often for alleged unfairness, harm, or breach of an agreement. It includes cases where one person's negligence causes harm to another, requiring the injured person to seek compensation through legal action.
+2025-08-25 14:19:38,241 - HTTP Request: POST https://lawerragopenai.openai.azure.com/openai/deployments/text-embedding-ada-002/embeddings?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-25 14:19:38,359 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '34559'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'b6e6c3c3-816a-11f0-aa11-04d3b0c273b6'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-25 14:19:38,661 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'b6e6c3c3-816a-11f0-aa11-04d3b0c273b6'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 25 Aug 2025 04:19:38 GMT'
+2025-08-25 14:19:38,994 - Request URL: 'https://laweraisearch123.search.windows.net/indexes('rag-1755666055921')/docs/search.post.search?api-version=REDACTED'
+Request method: 'POST'
+Request headers:
+    'Content-Type': 'application/json'
+    'Content-Length': '21086'
+    'api-key': 'REDACTED'
+    'Accept': 'application/json;odata.metadata=none'
+    'x-ms-client-request-id': 'b747e6d3-816a-11f0-ab78-04d3b0c273b6'
+    'User-Agent': 'azsdk-python-search-documents/11.5.3 Python/3.12.3 (Windows-11-10.0.26100-SP0)'
+A body is sent with the request
+2025-08-25 14:19:39,261 - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/json; odata.metadata=none; odata.streaming=true; charset=utf-8'
+    'Content-Encoding': 'REDACTED'
+    'Vary': 'REDACTED'
+    'Strict-Transport-Security': 'REDACTED'
+    'Preference-Applied': 'REDACTED'
+    'OData-Version': 'REDACTED'
+    'request-id': 'b747e6d3-816a-11f0-ab78-04d3b0c273b6'
+    'elapsed-time': 'REDACTED'
+    'Date': 'Mon, 25 Aug 2025 04:19:38 GMT'
+2025-08-25 14:19:41,321 - HTTP Request: POST https://adeel-mejhenig-swedencentral.cognitiveservices.azure.com/openai/deployments/gpt-35-turbo-2/chat/completions?api-version=2024-02-01 "HTTP/1.1 200 OK"
+2025-08-25 14:19:41,325 - Query: what is you name | Latency: 4.08s | Context: Title: law_handbook_15e_1.pdf
+Chunk: 18 cannot change their name 
+without consent. 
+
+Who must consen... | Response: I cannot find the answer in the provided documents.
