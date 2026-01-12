@@ -1,6 +1,6 @@
-# ⚖️ Legal Assistant – RAG-based Chatbot
+# Legal Assistant - Intelligent RAG-Based Application
 
-_A Retrieval-Augmented Generation (RAG) project built with Azure OpenAI, LangChain, Streamlit, and Azure AI Search_
+A Retrieval-Augmented Generation (RAG) chatbot built with Azure OpenAI, LangChain, Streamlit, and Azure AI Search for providing legal assistance from uploaded documents.
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?logo=streamlit)
@@ -10,37 +10,37 @@ _A Retrieval-Augmented Generation (RAG) project built with Azure OpenAI, LangCha
 
 ---
 
-## 🌟 Project Overview
+## Project Overview
 
-This project is a **Retrieval-Augmented Generation (RAG) Legal Assistant** chatbot that provides legal assistance by answering questions directly from uploaded legal documents (e.g., _The Law Handbook_).
+This project is a **Retrieval-Augmented Generation (RAG) Legal Assistant** chatbot that answers questions directly from uploaded legal documents (e.g., *The Law Handbook*).
 
-- Upload **PDF documents** → Convert them into **embeddings**
-- Store embeddings in **Azure AI Search (Vector Database)**
-- Query is converted into embeddings → Perform **similarity search**
-- Relevant chunks retrieved → Sent to **Azure OpenAI GPT-3.5 Turbo**
-- Model generates a **humanized legal response**
-- Includes **logging, monitoring, and feedback system**
+### How It Works
 
-💡 _This is a complete, end-to-end RAG application showcasing MLOps, GenAI, and deployment workflows._
+1. Upload **PDF documents** and convert them into **embeddings**
+2. Store embeddings in **Azure AI Search** (vector database)
+3. User query is converted into embeddings and a **similarity search** is performed
+4. Relevant chunks are retrieved and sent to **Azure OpenAI GPT-3.5 Turbo**
+5. The model generates a **contextual legal response**
+6. All interactions are captured via **logging, monitoring, and a feedback system**
 
----
-
-## 🎥 Demo
-
-📽️ [Watch Full Demo Video](#) _(https://youtu.be/AGVy9Qeb_YI?si=D22kTrcpuTvGuuza)_
-
-**Example Interactions:**
-
-- _Q: What is the title of the book?_ → A: _The Law Handbook, 15th Edition_
-- _Q: What is civil law?_ → A: _Civil law is the type of law enforced by individuals, companies, or the government…_
-- _Q: What is your name?_ → A: _I cannot find the answer in the provided documents._
-
-✅ Feedback system: Mark responses as **Correct/Incorrect**
-✅ Logs: All queries, responses, latency, and context are **stored for monitoring**
+> This is a complete, end-to-end RAG application showcasing MLOps, GenAI, and deployment workflows.
 
 ---
 
-## 🏗️ Architecture
+## Example Interactions
+
+| Query | Response |
+|-------|----------|
+| *What is the title of the book?* | *The Law Handbook, 15th Edition* |
+| *What is civil law?* | *Civil law is the type of law enforced by individuals, companies, or the government...* |
+| *What is your name?* | *I cannot find the answer in the provided documents.* |
+
+- Feedback system: mark responses as **Correct / Incorrect**
+- Logs: all queries, responses, latency, and context are **stored for monitoring**
+
+---
+
+## Architecture
 
 ```mermaid
 flowchart TD
@@ -57,46 +57,46 @@ flowchart TD
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
-### 🖥️ Frontend
+### Frontend
 
-- **Streamlit**: Clean, interactive chat interface
-- **Feedback System**: Correct/Incorrect buttons for monitoring
+- **Streamlit** — clean, interactive chat interface
+- **Feedback System** — correct/incorrect buttons for response monitoring
 
-### ⚡ Backend
+### Backend
 
-- **LangChain**: Orchestrating RAG pipeline
-- **Azure OpenAI (GPT-3.5 Turbo)**: Final answer generation
-- **Azure OpenAI Embeddings**: Convert queries and documents into vectors
-- **Azure AI Search (Vector DB)**: Similarity search to retrieve relevant chunks
+- **LangChain** — orchestrating the RAG pipeline
+- **Azure OpenAI (GPT-3.5 Turbo)** — final answer generation
+- **Azure OpenAI Embeddings** — convert queries and documents into vectors
+- **Azure AI Search (Vector DB)** — similarity search for retrieving relevant chunks
 
-### 📊 Monitoring & Logging
+### Monitoring & Logging
 
-- **Python Logging**: Captures query, response, retrieved context, latency
-- **Session State (Streamlit)**: Stores chat history across runs
-- **Azure Monitoring**: Tracks requests and usage
+- **Python Logging** — captures query, response, retrieved context, and latency
+- **Session State (Streamlit)** — stores chat history across runs
+- **Azure Monitoring** — tracks requests and usage
 
-### 🔐 Environment Management
+### Environment Management
 
-- **.env file**: Secure storage of Azure keys & endpoints
-- **os & dotenv**: Key management in backend
-
----
-
-## 🚀 Key Features
-
-- 📄 **Document Upload & Vectorization** – Supports long legal PDFs
-- 🔍 **Context-Aware Retrieval** – Uses embeddings + vector search
-- 🤖 **LLM-Powered Answers** – Azure GPT-3.5 Turbo with context window handling
-- 📝 **Conversation Logging** – Stores queries, responses, context, and latency
-- ✅ **Feedback System** – Mark answers as correct/incorrect for improvement
-- 🌐 **Azure Cloud Integration** – Embeddings, search, monitoring, LLM hosting
-- ⚡ **Low Latency Responses** – \~3–4s average response time
+- **.env file** — secure storage of Azure keys and endpoints
+- **python-dotenv** — key management in backend
 
 ---
 
-## 📂 Project Structure
+## Key Features
+
+- **Document Upload & Vectorization** — supports long legal PDFs
+- **Context-Aware Retrieval** — uses embeddings + vector search
+- **LLM-Powered Answers** — Azure GPT-3.5 Turbo with context window handling
+- **Conversation Logging** — stores queries, responses, context, and latency
+- **Feedback System** — mark answers as correct/incorrect for improvement
+- **Azure Cloud Integration** — embeddings, search, monitoring, LLM hosting
+- **Low Latency Responses** — ~3-4s average response time
+
+---
+
+## Project Structure
 
 ```
 ├── frontend/
@@ -107,12 +107,14 @@ flowchart TD
 ├── logs/
 │   └── rag_logs.log           # Logging and monitoring
 ├── requirements.txt           # Dependencies
-└── README.md                  # Project Documentation
+└── README.md                  # Project documentation
 ```
 
 ---
 
-## 🔑 Environment Variables (.env)
+## Environment Variables
+
+Create a `.env` file in the project root with the following variables:
 
 ```
 AZURE_OPENAI_ENDPOINT=your_endpoint_here
@@ -124,25 +126,24 @@ AZURE_SEARCH_INDEX=your_index_name
 
 ---
 
-## 🛠️ Installation & Setup
+## Installation & Setup
 
 ```bash
-# Clone repo
+# Clone the repository
 git clone https://github.com/yourusername/legal-assistant-rag.git
 cd legal-assistant-rag
 
-# Create env
+# Create a conda environment
 conda create -n ragapp python=3.10 -y
 conda activate ragapp
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Add your .env file
-touch .env   # Add keys & configs
+# Add your .env file with Azure keys and configs
 ```
 
-Run the Streamlit app:
+Run the application:
 
 ```bash
 streamlit run frontend/app.py
@@ -150,22 +151,13 @@ streamlit run frontend/app.py
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 
-- 🔹 Support for multiple document uploads with chunk merging
-- 🔹 Integration with **vector DB alternatives** (Pinecone, Weaviate, FAISS)
-- 🔹 Advanced **feedback loop** for continuous model improvement
-- 🔹 Deployment with **Docker + CI/CD (GitHub Actions + Azure/AWS)**
-
----
-
-## 👨‍💻 Author
-
-**Adeel Hamid** – _AI | Data Science | MLOps | GenAI Engineer_
-🔗 [LinkedIn](www.linkedin.com/in/adeelhamid) | 📧 (mailto:adeel.hamid50@gmail.com) | 🌐 Portfolio: (www.skillihire.com)
+- Support for multiple document uploads with chunk merging
+- Integration with alternative vector databases (Pinecone, Weaviate, FAISS)
+- Advanced feedback loop for continuous model improvement
+- Deployment with Docker + CI/CD (GitHub Actions + Azure/AWS)
 
 ---
 
-✨ _If you found this project useful, don’t forget to ⭐ the repo!_
-
----
+If you found this project useful, consider giving the repo a star!
